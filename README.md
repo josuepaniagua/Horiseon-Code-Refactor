@@ -25,13 +25,13 @@ Steps to follow to install Horiseon project:
 
 This layout is designed for desktop user, so website will not look like the screenshots if smaller than 768px.
 
-[alt text](image-for-readme/Screenshot.png)
-[alt text](image-for-readme/Screenshot0.png)
+[ScreenShot1](image-for-readme/Screenshot.png)
+[ScreenShot2](image-for-readme/Screenshot0.png)
 
 
 ## Credits
 
-Xander Rapstine from UTA; provide starter code for: https://github.com/Xandromus
+Xander Rapstine from UTA; provide starter code: https://github.com/Xandromus
 
 ## License
 
